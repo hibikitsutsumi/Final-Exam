@@ -26,7 +26,7 @@ print "number is averageNumber"
 
 2.	Create a flow chart that calculates the Pi based on the 10 first term of the following series 
      4 - 4/3 + 4/5 - 4/7 + 4/9 - 4/11 + 4/13-…
-
+attached to another file 
 
 
 
@@ -44,7 +44,7 @@ console.log(sum);
 
 
 4.	Create a flowchart for adding numbers from 1 to 1000 using Gauss method.
-
+*attched to another file 
 
 
 
